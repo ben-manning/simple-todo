@@ -1,0 +1,16 @@
+{
+  "name": "simple-todo",
+  "version": "0.0.0",
+  "homepage": "https://github.com/ben-manning/simple-todo",
+  "authors": [
+    "Ben Manning <bmanning@me.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
