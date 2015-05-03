@@ -16,7 +16,6 @@ TodoApp.controller("TodosCtrl", ["$scope", function ($scope) {
     $scope.todos.push($scope.newTodo);
     $scope.newTodo = {};
   };
-
   
 	$scope.delete = function () {
 	   console.log(this);
